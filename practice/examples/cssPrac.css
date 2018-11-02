@@ -1,0 +1,10 @@
+div{
+    border-style: solid;
+    
+}
+span{
+    border-style: dotted;
+}
+.inline{
+    display: inline-block;
+}

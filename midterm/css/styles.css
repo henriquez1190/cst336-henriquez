@@ -1,0 +1,14 @@
+a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+h2 {
+    font-style: italic;
+}
+.errors li {
+    color: red;
+}
+
+body {
+    background-color: #CCCCCC;
+}

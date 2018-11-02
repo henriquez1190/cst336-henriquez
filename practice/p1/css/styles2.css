@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, sans-serif;
+}
+h2 {
+    background-color: #0A1447;
+    color:white;
+    font-family: Verdana, Geneva, sans-serif;
+}
+table {
+    margin-right: 0px ;
+}
+td {
+    padding-left: 10px;
+    font-size: 1.3em;
+}
+
+nav a{
+    padding: 15px;
+    padding-right: 30px;
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 2em;
+    padding-left: 10px;
+}
+h4 {
+    font-size: 1.3em;
+    padding-left: 10px;
+}
+p{
+     font-size: 1.1em;
+}
